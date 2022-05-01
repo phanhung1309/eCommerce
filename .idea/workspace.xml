@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c9986173-461c-4ebd-80c8-244c26ecb144" name="Changes" comment="Add react router dom">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/pages/Home.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/pages/Home.tsx" afterDir="false" />
+    <list default="true" id="c9986173-461c-4ebd-80c8-244c26ecb144" name="Changes" comment="Add tailwind css">
+      <change beforePath="$PROJECT_DIR$/frontend/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/index.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +59,7 @@
       <option name="presentableId" value="Default" />
       <updated>1651418708959</updated>
       <workItem from="1651418710301" duration="44000" />
-      <workItem from="1651419000113" duration="3586000" />
+      <workItem from="1651419000113" duration="3755000" />
     </task>
     <task id="LOCAL-00001" summary="Init project">
       <created>1651419841047</created>
@@ -86,7 +82,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651421193930</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Add tailwind css">
+      <created>1651424391244</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1651424391244</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -107,7 +110,8 @@
     <MESSAGE value="Init project" />
     <MESSAGE value="Add prettier configure" />
     <MESSAGE value="Add react router dom" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add react router dom" />
+    <MESSAGE value="Add tailwind css" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add tailwind css" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
